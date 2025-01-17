@@ -1,0 +1,2 @@
+# WorkbookTestingTechniques
+ソフトウェアテスト技法練習帳の回答など
