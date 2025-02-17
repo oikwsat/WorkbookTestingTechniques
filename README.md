@@ -24,7 +24,7 @@
 ```bash
 $ brew install pict
 
-$ pict 4.1.pict.txt
+$ pict 4.1.pict.txt > 4.1.pict.out.txt
 ```
 
 ## GIHOZ
